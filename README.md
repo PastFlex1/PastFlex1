@@ -8,7 +8,7 @@
 ## Tecnologías frontend que domino:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,angular,git,github,gitlab,vue,sass&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,angular,git,github,vue,sass&perline=12" />
   </a>
 </p>
 <br>
